@@ -1,0 +1,36 @@
+# ─── Python Cache (Never push these) ─────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# ─── Virtual Environments ─────────────────────────────────
+venv/
+.venv/
+env/
+ENV/
+.env
+
+# ─── Generated Outputs (CSV, Excel, Logs) ─────────────────
+output/
+logs/
+snapshots/
+*.csv
+*.xlsx
+*.log
+
+# ─── IDE & OS Junk ─────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# ─── Secrets / Sensitive Data ─────────────────────────────
+config.ini
+credentials.json
+*.key
+*.pem
