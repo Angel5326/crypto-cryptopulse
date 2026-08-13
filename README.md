@@ -153,15 +153,7 @@ Once running, CryptoPulse will:
   ╚══════════════════════════════════════════════════════════════╝
 ```
 
----
 
-## 📸 Screenshots / Demo
-
-> *(Add a screenshot of the terminal market table with prices and changes here)*
-
-> *(Add a screenshot showing the 4 Excel sheets: Live Market, Portfolio, Dominance Map, History here)*
-
----
 
 ## 🧠 Engineering Decisions
 
